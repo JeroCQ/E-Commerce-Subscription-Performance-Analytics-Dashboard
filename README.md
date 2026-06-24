@@ -1,4 +1,4 @@
-# E-Commerce-Subscription-Performance-Analytics-Dashboard
+# E-Commerce-Subscription-Performance-Analytics-Dashboard for Specialty Coffee Equipment & AI Subscriptions
 
 Power Query: Merging messy spreadsheets, handling null values, and unpivoting data.
 
